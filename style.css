@@ -95,6 +95,14 @@ li {
 
 .btn__login {
   margin-right: 8px;
+  color: #E2923E;
+  border: 1px solid #E2923E;
+}
+
+.btn__signup {
+  color: #fff;
+  background: #E2923E;
+  border: 1px solid #E2923E;
 }
 
 .first-view {
@@ -218,4 +226,11 @@ li {
 
 .footer__bottom {
   background: #31333D;
+}
+
+.btn__view-more {
+  width: 50%;
+  margin-bottom: 16px;
+  color: #E2923E;
+  border: 1px solid #E2923E;
 }
